@@ -1,0 +1,1 @@
+document.body.innerHTML = '<ha1>Hello Java script<ha1/>'
